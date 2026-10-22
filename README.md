@@ -249,3 +249,4 @@ If this survey or resource collection helps your research, please cite the surve
 The list's organization and concise resource-entry format are inspired by [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering). The topic taxonomy and figure come from the accompanying survey.
 
 Repository prose and the attributed survey figure are available under [CC BY 4.0](LICENSE.md). Linked papers, implementations, and third-party marks retain their own rights and licenses.
+

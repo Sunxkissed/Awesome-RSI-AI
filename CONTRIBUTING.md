@@ -29,3 +29,4 @@ Use the first public year, a primary paper or official publication page, and aut
 The v1 reference archive is a provenance record. Keep its original numbering stable. Submit bibliographic corrections with supporting primary-source evidence and document the correction in the archive notes rather than silently overwriting the record. Later papers may be added to the curated list with a clear update note; they should not be presented as part of the original survey's search window.
 
 Small pull requests with a clear rationale are welcome. Include the proposed category, paper URL, optional code URL, and why the resource belongs.
+

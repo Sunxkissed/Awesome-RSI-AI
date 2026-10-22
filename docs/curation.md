@@ -34,3 +34,4 @@ Section 2.2 states that the bibliography contains 404 distinct works, whereas th
 Add new resources through focused pull requests following [CONTRIBUTING.md](../CONTRIBUTING.md). Keep the README and curated JSON index aligned. Preserve archive numbering and record source-supported corrections explicitly. Mark post-cutoff additions so readers can distinguish the original survey snapshot from later maintenance.
 
 This initial organization, bibliography extraction, and source checking used AI assistance. Verification scope is reported above so that readers can distinguish imported metadata, checked primary records, and experimental validation.
+

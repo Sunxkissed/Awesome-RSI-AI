@@ -1,0 +1,1214 @@
+{
+  "count": 92,
+  "entries": [
+    {
+      "title": "Gödel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements",
+      "url": "https://arxiv.org/abs/cs/0309048",
+      "first_public_year": 2003,
+      "survey_reference": 30,
+      "category": "Foundations",
+      "subcategory": null,
+      "description": "A formal model of self-rewriting software that accepts changes after proving their utility under encoded assumptions.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms",
+      "url": "https://arxiv.org/abs/1208.3719",
+      "first_public_year": 2012,
+      "survey_reference": 34,
+      "category": "Foundations",
+      "subcategory": null,
+      "description": "Jointly searches learning algorithms and hyperparameters using Bayesian optimization, providing an AutoML baseline for automated system design.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Bounded Recursive Self-Improvement",
+      "url": "https://arxiv.org/abs/1312.6764",
+      "first_public_year": 2013,
+      "survey_reference": 31,
+      "category": "Foundations",
+      "subcategory": null,
+      "description": "An architectural blueprint for experience-driven self-modeling and adaptation within designer-specified boundaries.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Neural Architecture Search with Reinforcement Learning",
+      "url": "https://arxiv.org/abs/1611.01578",
+      "first_public_year": 2016,
+      "survey_reference": 36,
+      "category": "Foundations",
+      "subcategory": null,
+      "description": "Trains a controller to propose neural architectures using validation performance as feedback.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Learning to Learn by Gradient Descent by Gradient Descent",
+      "url": "https://arxiv.org/abs/1606.04474",
+      "first_public_year": 2016,
+      "survey_reference": 37,
+      "category": "Foundations",
+      "subcategory": null,
+      "description": "Learns an LSTM-based optimizer across training problems, making the parameter-update rule a learned object.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "MAML: Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+      "url": "https://arxiv.org/abs/1703.03400",
+      "first_public_year": 2017,
+      "survey_reference": 39,
+      "category": "Foundations",
+      "subcategory": null,
+      "description": "Learns an initialization that supports rapid adaptation to new tasks with a small number of gradient steps.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "AutoML-Zero: Evolving Machine Learning Algorithms From Scratch",
+      "url": "https://arxiv.org/abs/2003.03384",
+      "first_public_year": 2020,
+      "survey_reference": 40,
+      "category": "Foundations",
+      "subcategory": null,
+      "description": "Evolves learning programs built from basic mathematical operations, extending automated search beyond model architecture.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Discovering Reinforcement Learning Algorithms",
+      "url": "https://arxiv.org/abs/2007.08794",
+      "first_public_year": 2020,
+      "survey_reference": 83,
+      "category": "Foundations",
+      "subcategory": null,
+      "description": "Meta-learns both prediction targets and update rules to produce the Learned Policy Gradient algorithm.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "STaR: Bootstrapping Reasoning With Reasoning",
+      "url": "https://arxiv.org/abs/2203.14465",
+      "first_public_year": 2022,
+      "survey_reference": 1,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Self-Generated Training Data",
+      "description": "Iteratively generates rationales, retains those leading to correct answers, and fine-tunes a reasoner on the resulting data.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Self-Instruct: Aligning Language Models with Self-Generated Instructions",
+      "url": "https://arxiv.org/abs/2212.10560",
+      "first_public_year": 2022,
+      "survey_reference": 72,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Self-Generated Training Data",
+      "description": "Generates and filters instruction examples from a seed set, then uses them to fine-tune instruction-following behavior.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/yizhongw/self-instruct"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Reinforced Self-Training (ReST) for Language Modeling",
+      "url": "https://arxiv.org/abs/2308.08998",
+      "first_public_year": 2023,
+      "survey_reference": 188,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Self-Generated Training Data",
+      "description": "Alternates policy-generated datasets with reward-guided offline learning, allowing generated experience to be reused.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "ReST-EM: Beyond Human Data",
+      "url": "https://arxiv.org/abs/2312.06585",
+      "first_public_year": 2023,
+      "survey_reference": 387,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Self-Generated Training Data",
+      "description": "Repeats generation, filtering with binary correctness feedback, and fine-tuning for mathematical reasoning and code generation.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "SPIN: Self-Play Fine-Tuning",
+      "url": "https://arxiv.org/abs/2401.01335",
+      "first_public_year": 2024,
+      "survey_reference": 189,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Self-Generated Training Data",
+      "description": "Uses self-generated responses from an earlier model as opponents and human demonstrations as targets for iterative self-play fine-tuning.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/uclaml/SPIN"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking",
+      "url": "https://arxiv.org/abs/2403.09629",
+      "first_public_year": 2024,
+      "survey_reference": 388,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Self-Generated Training Data",
+      "description": "Learns to generate internal rationales that help predict subsequent text, extending rationale learning beyond explicit question-answer pairs.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "DeepSeek-Prover",
+      "url": "https://arxiv.org/abs/2405.14333",
+      "first_public_year": 2024,
+      "survey_reference": 190,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Self-Generated Training Data",
+      "description": "Builds synthetic Lean theorem-proving data through formalization, filtering, and proof generation to train a formal prover.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search",
+      "url": "https://arxiv.org/abs/2406.03816",
+      "first_public_year": 2024,
+      "survey_reference": 191,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Self-Generated Training Data",
+      "description": "Uses process-guided tree search to collect reasoning traces and step-value targets for iterative policy and reward-model training.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/THUDM/ReST-MCTS"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "DeepSeek-R1",
+      "url": "https://arxiv.org/abs/2501.12948",
+      "first_public_year": 2025,
+      "survey_reference": 192,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Self-Generated Training Data",
+      "description": "Studies reasoning-focused reinforcement learning and staged training, providing a parameter-learning reference for distinguishing solver gains from changes to the improver.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "RISE: Recursive Introspection",
+      "url": "https://arxiv.org/abs/2407.18219",
+      "first_public_year": 2024,
+      "survey_reference": 389,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Learning to Correct and Adapt",
+      "description": "Fine-tunes agents on multi-turn attempts so that unsuccessful responses can inform later corrections within the interaction.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "SCoRe: Training Language Models to Self-Correct via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2409.12917",
+      "first_public_year": 2024,
+      "survey_reference": 390,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Learning to Correct and Adapt",
+      "description": "Uses multi-turn online reinforcement learning and self-generated correction traces to train self-correction behavior.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "TTRL: Test-Time Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2504.16084",
+      "first_public_year": 2025,
+      "survey_reference": 391,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Learning to Correct and Adapt",
+      "description": "Updates model parameters on unlabeled test inputs using rewards estimated from generated answers, including majority-vote signals.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/PRIME-RL/TTRL"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "SEAL: Self-Adapting Language Models",
+      "url": "https://arxiv.org/abs/2506.10943",
+      "first_public_year": 2025,
+      "survey_reference": 392,
+      "category": "Data, Training and Parameter Adaptation",
+      "subcategory": "Learning to Correct and Adapt",
+      "description": "Learns to generate fine-tuning data and update directives, rewarding self-edits by the adapted model's downstream performance.",
+      "resources": [
+        {
+          "label": "Project",
+          "url": "https://jyopari.github.io/posts/seal"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Paired Open-Ended Trailblazer (POET)",
+      "url": "https://arxiv.org/abs/1901.01753",
+      "first_public_year": 2019,
+      "survey_reference": 41,
+      "category": "Tasks, Curricula and Environment Co-Evolution",
+      "subcategory": null,
+      "description": "Co-evolves environmental challenges and their solvers, transferring solutions between tasks to create new learning opportunities.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Enhanced POET",
+      "url": "https://arxiv.org/abs/2003.08536",
+      "first_public_year": 2020,
+      "survey_reference": 42,
+      "category": "Tasks, Curricula and Environment Co-Evolution",
+      "subcategory": null,
+      "description": "Extends POET with challenge novelty, transfer heuristics, and measures for studying continued open-ended innovation.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "AgentGym: Evolving Large Language Model-based Agents across Diverse Environments",
+      "url": "https://arxiv.org/abs/2406.04151",
+      "first_public_year": 2024,
+      "survey_reference": 393,
+      "category": "Tasks, Curricula and Environment Co-Evolution",
+      "subcategory": null,
+      "description": "Provides environments, trajectories, benchmarks, and AgentEvol for studying experience-based agent learning across tasks.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/WooooDyy/AgentGym"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Absolute Zero: Reinforced Self-play Reasoning with Zero Data",
+      "url": "https://arxiv.org/abs/2505.03335",
+      "first_public_year": 2025,
+      "survey_reference": 75,
+      "category": "Tasks, Curricula and Environment Co-Evolution",
+      "subcategory": null,
+      "description": "Jointly trains task proposal and solving, using code execution to validate generated tasks and check answers.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "R-Zero: Self-Evolving Reasoning LLM from Zero Data",
+      "url": "https://arxiv.org/abs/2508.05004",
+      "first_public_year": 2025,
+      "survey_reference": 76,
+      "category": "Tasks, Curricula and Environment Co-Evolution",
+      "subcategory": null,
+      "description": "Co-evolves a challenger and solver, with task difficulty adapted to the solver's current capabilities.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "AgentEvolver: Towards Efficient Self-Evolving Agent System",
+      "url": "https://arxiv.org/abs/2511.10395",
+      "first_public_year": 2025,
+      "survey_reference": 394,
+      "category": "Tasks, Curricula and Environment Co-Evolution",
+      "subcategory": null,
+      "description": "Combines self-questioning, experience-guided exploration, and trajectory credit assignment in an agent learning pipeline.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2303.11366",
+      "first_public_year": 2023,
+      "survey_reference": 3,
+      "category": "Memory, Skills and Persistent Context",
+      "subcategory": null,
+      "description": "Stores verbal reflections on feedback in episodic memory to guide later trials without changing model weights.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+      "url": "https://arxiv.org/abs/2305.16291",
+      "first_public_year": 2023,
+      "survey_reference": 4,
+      "category": "Memory, Skills and Persistent Context",
+      "subcategory": null,
+      "description": "Combines an automatic curriculum, executable skill library, and environment-grounded program revision in Minecraft.",
+      "resources": [
+        {
+          "label": "Project",
+          "url": "https://voyager.minedojo.org/"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "ExpeL: LLM Agents Are Experiential Learners",
+      "url": "https://arxiv.org/abs/2308.10144",
+      "first_public_year": 2023,
+      "survey_reference": 77,
+      "category": "Memory, Skills and Persistent Context",
+      "subcategory": null,
+      "description": "Distills natural-language insights from training-task experience and retrieves these insights and past trajectories for later decisions.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "A-MEM: Agentic Memory for LLM Agents",
+      "url": "https://arxiv.org/abs/2502.12110",
+      "first_public_year": 2025,
+      "survey_reference": 395,
+      "category": "Memory, Skills and Persistent Context",
+      "subcategory": null,
+      "description": "Organizes experience into linked notes whose attributes and connections can evolve as new memories arrive.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/WujiangXu/A-mem-sys"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory",
+      "url": "https://arxiv.org/abs/2504.07952",
+      "first_public_year": 2025,
+      "survey_reference": 396,
+      "category": "Memory, Skills and Persistent Context",
+      "subcategory": null,
+      "description": "Maintains a self-curated store of reusable strategies and code snippets across queries without parameter updates.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/suzgunmirac/dynamic-cheatsheet"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "ACE: Agentic Context Engineering",
+      "url": "https://arxiv.org/abs/2510.04618",
+      "first_public_year": 2025,
+      "survey_reference": 397,
+      "category": "Memory, Skills and Persistent Context",
+      "subcategory": null,
+      "description": "Evolves structured context playbooks through generation, reflection, and incremental curation, supporting offline and online adaptation.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "MetaClaw: Just Talk — An Agent That Meta-Learns and Evolves in the Wild",
+      "url": "https://arxiv.org/abs/2603.17187",
+      "first_public_year": 2026,
+      "survey_reference": 398,
+      "category": "Memory, Skills and Persistent Context",
+      "subcategory": null,
+      "description": "Couples failure-driven skill synthesis with policy updates scheduled during inactive periods, maintaining both reusable skills and model parameters.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/aiming-lab/MetaClaw"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Mem²Evolve",
+      "url": "https://arxiv.org/abs/2604.10923",
+      "first_public_year": 2026,
+      "survey_reference": 78,
+      "category": "Memory, Skills and Persistent Context",
+      "subcategory": null,
+      "description": "Couples distilled experience with dynamic tool and expert-agent creation through experience memory and asset memory.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "APE: Large Language Models Are Human-Level Prompt Engineers",
+      "url": "https://arxiv.org/abs/2211.01910",
+      "first_public_year": 2022,
+      "survey_reference": 143,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Prompt Optimization",
+      "description": "Generates and scores candidate natural-language instructions as an automatic prompt-search procedure.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "APO: Automatic Prompt Optimization with \"Gradient Descent\" and Beam Search",
+      "url": "https://arxiv.org/abs/2305.03495",
+      "first_public_year": 2023,
+      "survey_reference": 144,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Prompt Optimization",
+      "description": "Uses textual critiques of prompt errors, beam search, and selection to revise instructions.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "OPRO: Large Language Models as Optimizers",
+      "url": "https://arxiv.org/abs/2309.03409v3",
+      "first_public_year": 2023,
+      "survey_reference": 86,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Prompt Optimization",
+      "description": "Conditions new candidate solutions on earlier candidates and their scores, including for prompt optimization.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/google-deepmind/opro"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "EvoPrompt: Connecting LLMs with Evolutionary Algorithms Yields Powerful Prompt Optimizers",
+      "url": "https://arxiv.org/abs/2309.08532",
+      "first_public_year": 2023,
+      "survey_reference": 145,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Prompt Optimization",
+      "description": "Uses LLMs to implement evolutionary operators over a population of prompts selected with development-set feedback.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization",
+      "url": "https://arxiv.org/abs/2310.16427",
+      "first_public_year": 2023,
+      "survey_reference": 146,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Prompt Optimization",
+      "description": "Combines error reflection with Monte Carlo tree search over candidate prompts.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "TextGrad: Automatic \"Differentiation\" via Text",
+      "url": "https://arxiv.org/abs/2406.07496",
+      "first_public_year": 2024,
+      "survey_reference": 87,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Prompt Optimization",
+      "description": "Propagates natural-language feedback through a computation graph to revise prompts, code, and other system variables.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2507.19457",
+      "first_public_year": 2025,
+      "survey_reference": 82,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Prompt Optimization",
+      "description": "Reflects on execution trajectories and combines complementary candidates from a Pareto frontier to evolve prompts.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/gepa-ai/gepa"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines",
+      "url": "https://arxiv.org/abs/2310.03714",
+      "first_public_year": 2023,
+      "survey_reference": 399,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Agent Architectures & Workflows",
+      "description": "Expresses language-model pipelines as declarative modules and compiles them against a task metric.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/stanfordnlp/dspy"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "ADAS: Automated Design of Agentic Systems",
+      "url": "https://arxiv.org/abs/2408.08435v2",
+      "first_public_year": 2024,
+      "survey_reference": 80,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Agent Architectures & Workflows",
+      "description": "Uses a meta-agent and an archive of prior designs to search over executable agent programs.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "AgentSquare: Automatic LLM Agent Search in Modular Design Space",
+      "url": "https://arxiv.org/abs/2410.06153",
+      "first_public_year": 2024,
+      "survey_reference": 81,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Agent Architectures & Workflows",
+      "description": "Evolves and recombines planning, reasoning, tool-use, and memory modules within a shared interface.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "AFlow: Automating Agentic Workflow Generation",
+      "url": "https://arxiv.org/abs/2410.10762",
+      "first_public_year": 2024,
+      "survey_reference": 400,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Agent Architectures & Workflows",
+      "description": "Searches code-represented workflows with Monte Carlo tree search, execution feedback, and accumulated search experience.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/FoundationAgents/AFlow"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "SICA: A Self-Improving Coding Agent",
+      "url": "https://arxiv.org/abs/2504.15228",
+      "first_public_year": 2025,
+      "survey_reference": 282,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Code, Algorithms & Persistent Harnesses",
+      "description": "Lets a coding agent edit its own implementation and evaluate the revised agent on coding tasks.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "AlphaEvolve: A Coding Agent for Scientific and Algorithmic Discovery",
+      "url": "https://arxiv.org/abs/2506.13131",
+      "first_public_year": 2025,
+      "survey_reference": 142,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Code, Algorithms & Persistent Harnesses",
+      "description": "Combines LLM-generated code edits with evolutionary search and executable evaluators for algorithm discovery.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Prime Agent: A Self-Improving RLM Harness",
+      "url": "https://arxiv.org/abs/2608.23552",
+      "first_public_year": 2026,
+      "survey_reference": 401,
+      "category": "Prompts, Workflows & Program Search",
+      "subcategory": "Code, Algorithms & Persistent Harnesses",
+      "description": "Combines a persistent Python execution environment, recursive subagents, and retained histories, memories, skills, and prompts across trajectories.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/PrimeIntellect-ai/prime-agent"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Constitutional AI: Harmlessness from AI Feedback",
+      "url": "https://arxiv.org/abs/2212.08073",
+      "first_public_year": 2022,
+      "survey_reference": 116,
+      "category": "Feedback, Verifiers and Evaluator Improvement",
+      "subcategory": "Critique and External Feedback",
+      "description": "Uses an explicit constitution to guide self-critiques, response revisions, and AI-generated preferences for subsequent training.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+      "url": "https://arxiv.org/abs/2303.17651",
+      "first_public_year": 2023,
+      "survey_reference": 67,
+      "category": "Feedback, Verifiers and Evaluator Improvement",
+      "subcategory": "Critique and External Feedback",
+      "description": "Alternates feedback and revision of the current output; useful as a local-refinement baseline when testing persistent improvement.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing",
+      "url": "https://arxiv.org/abs/2305.11738",
+      "first_public_year": 2023,
+      "survey_reference": 68,
+      "category": "Feedback, Verifiers and Evaluator Improvement",
+      "subcategory": "Critique and External Feedback",
+      "description": "Grounds output revision in tool feedback such as execution results and retrieved evidence.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Self-Rewarding Language Models",
+      "url": "https://arxiv.org/abs/2401.10020",
+      "first_public_year": 2024,
+      "survey_reference": 2,
+      "category": "Feedback, Verifiers and Evaluator Improvement",
+      "subcategory": "Learning Rewards and Judges",
+      "description": "Uses the language model as a judge to produce preference data for iterative direct preference optimization.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "V-STaR: Training Verifiers for Self-Taught Reasoners",
+      "url": "https://arxiv.org/abs/2402.06457",
+      "first_public_year": 2024,
+      "survey_reference": 196,
+      "category": "Feedback, Verifiers and Evaluator Improvement",
+      "subcategory": "Learning Rewards and Judges",
+      "description": "Trains verifiers from both correct and incorrect self-generated solutions, then uses them to select candidate answers.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Meta-Rewarding Language Models",
+      "url": "https://arxiv.org/abs/2407.19594v2",
+      "first_public_year": 2024,
+      "survey_reference": 79,
+      "category": "Feedback, Verifiers and Evaluator Improvement",
+      "subcategory": "Learning Rewards and Judges",
+      "description": "Adds a meta-judge that evaluates judgments, using the resulting feedback to refine judging and instruction-following behavior.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Self-Taught Evaluators",
+      "url": "https://arxiv.org/abs/2408.02666",
+      "first_public_year": 2024,
+      "survey_reference": 402,
+      "category": "Feedback, Verifiers and Evaluator Improvement",
+      "subcategory": "Learning Rewards and Judges",
+      "description": "Iteratively trains a judge on synthetic contrasting responses, reasoning traces, and judgments without labeled human preference data.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "CREAM: Consistency Regularized Self-Rewarding Language Models",
+      "url": "https://arxiv.org/abs/2410.12735",
+      "first_public_year": 2024,
+      "survey_reference": 403,
+      "category": "Feedback, Verifiers and Evaluator Improvement",
+      "subcategory": "Learning Rewards and Judges",
+      "description": "Uses reward consistency across iterations to regularize self-generated preference labels and limit overconfident self-rewarding.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/Raibows/CREAM"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Process-based Self-Rewarding Language Models",
+      "url": "https://arxiv.org/abs/2503.03746",
+      "first_public_year": 2025,
+      "survey_reference": 404,
+      "category": "Feedback, Verifiers and Evaluator Improvement",
+      "subcategory": "Learning Rewards and Judges",
+      "description": "Combines stepwise judging and preference optimization to extend self-rewarding to mathematical reasoning processes.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution",
+      "url": "https://arxiv.org/abs/2309.16797",
+      "first_public_year": 2023,
+      "survey_reference": 84,
+      "category": "Editable Improvers & Recursive Context",
+      "subcategory": null,
+      "description": "Evolves both task prompts and the mutation prompts used to generate their subsequent revisions.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "STOP: Self-Taught Optimizer — Recursively Self-Improving Code Generation",
+      "url": "https://arxiv.org/abs/2310.02304",
+      "first_public_year": 2023,
+      "survey_reference": 46,
+      "category": "Editable Improvers & Recursive Context",
+      "subcategory": null,
+      "description": "Applies a language-model-based program improver to its own code and evaluates the resulting improver on downstream program-improvement tasks.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents",
+      "url": "https://arxiv.org/abs/2505.22954v3",
+      "first_public_year": 2025,
+      "survey_reference": 5,
+      "category": "Editable Improvers & Recursive Context",
+      "subcategory": null,
+      "description": "Maintains an archive of self-modified coding agents and empirically evaluates descendants, allowing coding changes to affect later self-modification.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/jennyzzt/dgm"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Hyperagents",
+      "url": "https://arxiv.org/abs/2603.19461v1",
+      "first_public_year": 2026,
+      "survey_reference": 6,
+      "category": "Editable Improvers & Recursive Context",
+      "subcategory": null,
+      "description": "Places task-agent and meta-agent code in a shared editable program and studies transfer of evolved meta-level improvements.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/facebookresearch/Hyperagents"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Bilevel Autoresearch: Meta-Autoresearching Itself",
+      "url": "https://arxiv.org/abs/2603.23420",
+      "first_public_year": 2026,
+      "survey_reference": 405,
+      "category": "Editable Improvers & Recursive Context",
+      "subcategory": null,
+      "description": "Uses an outer loop to inspect inner-loop code and traces and inject new search mechanisms; the reported experiments demonstrate one bilevel improvement step.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Metaⁿ: Recursive Self-Improvement through Emergent Depth",
+      "url": "https://arxiv.org/abs/2608.24735v1",
+      "first_public_year": 2026,
+      "survey_reference": 7,
+      "category": "Editable Improvers & Recursive Context",
+      "subcategory": null,
+      "description": "Keeps the meta-operation fixed while recursively expanding its input with earlier programs and execution traces to construct additional strategic layers.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/minnesotanlp/meta-n"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery",
+      "url": "https://arxiv.org/abs/2408.06292",
+      "first_public_year": 2024,
+      "survey_reference": 167,
+      "category": "Automated Research & Scientific Discovery",
+      "subcategory": null,
+      "description": "Connects idea generation, code editing, experiment execution, analysis, manuscript writing, and automated review in one research workflow.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/SakanaAI/AI-Scientist"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "url": "https://arxiv.org/abs/2504.08066",
+      "first_public_year": 2025,
+      "survey_reference": 168,
+      "category": "Automated Research & Scientific Discovery",
+      "subcategory": null,
+      "description": "Uses agentic experiment-tree search and a template-free research workflow with visual feedback for figures.",
+      "resources": [
+        {
+          "label": "Code",
+          "url": "https://github.com/SakanaAI/AI-Scientist-v2"
+        }
+      ],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Accelerating Scientific Discovery with Co-Scientist",
+      "url": "https://arxiv.org/abs/2502.18864",
+      "first_public_year": 2025,
+      "survey_reference": 172,
+      "category": "Automated Research & Scientific Discovery",
+      "subcategory": null,
+      "description": "Uses multiple agents and tournament-style refinement to generate, critique, and prioritize scientific hypotheses for experimental verification.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "ASI-Evolve: AI Accelerates AI",
+      "url": "https://arxiv.org/abs/2603.29640",
+      "first_public_year": 2026,
+      "survey_reference": 170,
+      "category": "Automated Research & Scientific Discovery",
+      "subcategory": null,
+      "description": "Retains experimental insights in a learn-design-experiment-analyze loop for data pipelines, model architectures, and learning algorithms.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
+      "url": "https://arxiv.org/abs/2607.21461",
+      "first_public_year": 2026,
+      "survey_reference": 85,
+      "category": "Automated Research & Scientific Discovery",
+      "subcategory": null,
+      "description": "Alternates evidence-gathering research with constraint-wise answer auditing while a learned context-update tool preserves verified findings and unresolved claims.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "AgentBench: Evaluating LLMs as Agents",
+      "url": "https://arxiv.org/abs/2308.03688",
+      "first_public_year": 2023,
+      "survey_reference": 316,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Interactive Agents & Software Repair",
+      "description": "Evaluates interactive agents across multiple environments, providing task outcomes for testing inherited changes.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "GAIA: A Benchmark for General AI Assistants",
+      "url": "https://arxiv.org/abs/2311.12983",
+      "first_public_year": 2023,
+      "survey_reference": 317,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Interactive Agents & Software Repair",
+      "description": "Tests assistants on questions requiring reasoning, browsing, tools, and multimodal information.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+      "url": "https://arxiv.org/abs/2310.06770",
+      "first_public_year": 2023,
+      "survey_reference": 318,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Interactive Agents & Software Repair",
+      "description": "Evaluates repository-level issue resolution using real software tasks and executable tests.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+      "url": "https://arxiv.org/abs/2307.13854",
+      "first_public_year": 2023,
+      "survey_reference": 327,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Interactive Agents & Software Repair",
+      "description": "Provides reproducible web environments for evaluating long-horizon interaction and task completion.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+      "url": "https://arxiv.org/abs/2406.12045",
+      "first_public_year": 2024,
+      "survey_reference": 329,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Interactive Agents & Software Repair",
+      "description": "Tests tool use, domain-policy compliance, and reliability during simulated user interactions.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "LiveCodeBench",
+      "url": "https://arxiv.org/abs/2403.07974",
+      "first_public_year": 2024,
+      "survey_reference": 349,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Interactive Agents & Software Repair",
+      "description": "Uses continuously collected programming problems and release-aware evaluation to study code capabilities with reduced contamination risk.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation",
+      "url": "https://arxiv.org/abs/2310.03302",
+      "first_public_year": 2023,
+      "survey_reference": 319,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Machine Learning Engineering & Scientific Tasks",
+      "description": "Evaluates agents that design, execute, and iterate on machine learning experiments.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering",
+      "url": "https://arxiv.org/abs/2410.07095",
+      "first_public_year": 2024,
+      "survey_reference": 320,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Machine Learning Engineering & Scientific Tasks",
+      "description": "Uses machine learning competition tasks to assess data handling, training, and empirical model improvement.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "ScienceAgentBench",
+      "url": "https://arxiv.org/abs/2410.05080",
+      "first_public_year": 2024,
+      "survey_reference": 321,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Machine Learning Engineering & Scientific Tasks",
+      "description": "Evaluates executable scientific workflows for data-driven discovery across research tasks.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "AI4AI-Bench",
+      "url": "https://arxiv.org/abs/2608.20318",
+      "first_public_year": 2026,
+      "survey_reference": 343,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Machine Learning Engineering & Scientific Tasks",
+      "description": "Tests agents' ability to design training algorithms, with independent execution of the resulting code.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "LifelongAgentBench: Evaluating LLM Agents as Lifelong Learners",
+      "url": "https://arxiv.org/abs/2505.11942",
+      "first_public_year": 2025,
+      "survey_reference": 338,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Persistent Adaptation & Evaluator Quality",
+      "description": "Evaluates accumulation and transfer of experience across interdependent agent tasks.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "SEA-Eval",
+      "url": "https://arxiv.org/abs/2604.08988",
+      "first_public_year": 2026,
+      "survey_reference": 325,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Persistent Adaptation & Evaluator Quality",
+      "description": "Tracks self-evolving agents across task streams, exposing success and cost beyond isolated episodes.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "SEAGym: An Evaluation Environment for Self-Evolving LLM Agents",
+      "url": "https://arxiv.org/abs/2606.17546",
+      "first_public_year": 2026,
+      "survey_reference": 326,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Persistent Adaptation & Evaluator Quality",
+      "description": "Separates training, update validation, held-out tests, replay, and cost records to assess reusable harness changes.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "RewardBench: Evaluating Reward Models for Language Modeling",
+      "url": "https://arxiv.org/abs/2403.13787",
+      "first_public_year": 2024,
+      "survey_reference": 322,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Persistent Adaptation & Evaluator Quality",
+      "description": "Tests reward-model preferences across response categories, supporting checks of the signal used to select updates.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "ProcessBench: Identifying Process Errors in Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2412.06559",
+      "first_public_year": 2024,
+      "survey_reference": 323,
+      "category": "Benchmarks & Evaluation",
+      "subcategory": "Persistent Adaptation & Evaluator Quality",
+      "description": "Tests whether evaluators identify erroneous reasoning steps, rather than only rank final answers.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+      "url": "https://arxiv.org/abs/2310.01798",
+      "first_public_year": 2023,
+      "survey_reference": 352,
+      "category": "Failure Modes & Evidence Boundaries",
+      "subcategory": null,
+      "description": "Finds that intrinsic self-correction can fail or degrade reasoning in the studied settings, motivating independent feedback and appropriate controls.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "The Curse of Recursion: Training on Generated Data Makes Models Forget",
+      "url": "https://arxiv.org/abs/2305.17493",
+      "first_public_year": 2023,
+      "survey_reference": 355,
+      "category": "Failure Modes & Evidence Boundaries",
+      "subcategory": null,
+      "description": "Studies distributional degradation when generated data recursively replaces original data in model training.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data",
+      "url": "https://arxiv.org/abs/2404.01413",
+      "first_public_year": 2024,
+      "survey_reference": 357,
+      "category": "Failure Modes & Evidence Boundaries",
+      "subcategory": null,
+      "description": "Shows that retaining and accumulating data changes collapse outcomes in the studied regimes, qualifying replacement-based failure conclusions.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence",
+      "url": "https://arxiv.org/abs/2507.21046v4",
+      "first_public_year": 2025,
+      "survey_reference": 8,
+      "category": "Related Surveys",
+      "subcategory": null,
+      "description": "Organizes agent evolution by targets, timing, mechanisms, and applications.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Self-Improvement of Large Language Models: A Technical Overview and Future Outlook",
+      "url": "https://arxiv.org/abs/2603.25681v3",
+      "first_public_year": 2026,
+      "survey_reference": 9,
+      "category": "Related Surveys",
+      "subcategory": null,
+      "description": "Reviews self-improvement through the model-development lifecycle and autonomous evaluation.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops",
+      "url": "https://arxiv.org/abs/2607.07663v2",
+      "first_public_year": 2026,
+      "survey_reference": 11,
+      "category": "Related Surveys",
+      "subcategory": null,
+      "description": "Connects update targets and loop closure with verification, grounding, and failure modes.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "A Survey on the Memory Mechanism of Large Language Model Based Agents",
+      "url": "https://arxiv.org/abs/2404.13501",
+      "first_public_year": 2024,
+      "survey_reference": 12,
+      "category": "Related Surveys",
+      "subcategory": null,
+      "description": "Reviews how agent memories are designed, used, and evaluated.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    },
+    {
+      "title": "A Systematic Survey of Automatic Prompt Optimization Techniques",
+      "url": "https://arxiv.org/abs/2502.16923",
+      "first_public_year": 2025,
+      "survey_reference": 13,
+      "category": "Related Surveys",
+      "subcategory": null,
+      "description": "Provides a complementary taxonomy of automated prompt-search methods.",
+      "resources": [],
+      "checked_at": "2026-10-23",
+      "verification_scope": "Primary paper page and bibliographic identity checked; mechanism description grounded in the survey and primary abstract. No independent replication or full experimental audit."
+    }
+  ]
+}
